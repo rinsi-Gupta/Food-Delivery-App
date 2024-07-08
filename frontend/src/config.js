@@ -1,1 +1,1 @@
-export const DOMAIN = 'http://localhost:4000'
+export const DOMAIN = 'https://food-delivery-app-tj0e.onrender.com'
