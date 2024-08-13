@@ -1,4 +1,4 @@
-# Tomato - Food Ordering App
+# SnapEats - Food Ordering App
 
 <p> This is a web app built using React JS for frontend and Node JS, Express for creating the REST APIs along with Mongo DB to store data. 
 </p>
